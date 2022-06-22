@@ -1,0 +1,48 @@
+* {background-color: lightgray;
+  font-family: MonoLisa, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-size: larger;
+  font-family: MonoLisa, 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+.myHeader {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+img {
+ 
+
+  width: 100%;
+}
+
+.openingStatement {
+font-size: smaller;
+font-style: italic;
+color: white;
+}
+
+.myQuotes {
+display: flex;
+justify-content: center;
+justify-content: space-around;
+font-style: italic;
+font-family: monospace;
+font-size: large;
+font-weight: bold;
+color: white;
+
+}
+
+.footerbar {display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-size: larger;
+  text-decoration: none;}
